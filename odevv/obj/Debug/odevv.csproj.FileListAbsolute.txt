@@ -1,0 +1,7 @@
+C:\Users\sema\source\repos\odevv\odevv\obj\Debug\odevv.csprojAssemblyReference.cache
+C:\Users\sema\source\repos\odevv\odevv\obj\Debug\odevv.csproj.CoreCompileInputs.cache
+C:\Users\sema\source\repos\odevv\odevv\bin\Debug\odevv.exe.config
+C:\Users\sema\source\repos\odevv\odevv\bin\Debug\odevv.exe
+C:\Users\sema\source\repos\odevv\odevv\bin\Debug\odevv.pdb
+C:\Users\sema\source\repos\odevv\odevv\obj\Debug\odevv.exe
+C:\Users\sema\source\repos\odevv\odevv\obj\Debug\odevv.pdb
